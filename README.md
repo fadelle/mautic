@@ -4,7 +4,7 @@ Mautic Introduction
 <br /><br />
 ## Getting Started
 <p>
-	This is a simple 3 step installation process. You'll want to make sure you already have <a href="http://getcomposer.org">Composer</a> available on your computer as this is a development release and you'll need to use Composer to download the vendor packages.
+	This is a simple 4 step installation process. You'll want to make sure you already have <a href="http://getcomposer.org">Composer</a> available on your computer as this is a development release and you'll need to use Composer to download the vendor packages.
 </p>
 <table width="100%" border="0">
 	<tr>
